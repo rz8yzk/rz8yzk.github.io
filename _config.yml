@@ -11,7 +11,7 @@ github_repo: "https://github.com/rz8yzk/rz8yzk.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "苟利国家生死以，岂因祸福避趋之~"
+sidebar-about-description: "一阴一阳之谓道，继之者善也，成之者性也。"
 sidebar-avatar: /img/avatar_binggan1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
